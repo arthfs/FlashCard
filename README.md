@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## FlashCard
 
 📝 `NOTE:` Paste the README templates for each subsequent lab here at the top, (i.e. lab 2, 3, 4). This will show a history of your development process including which users tories you completed and how your app looked and functioned at each step.
@@ -41,3 +42,6 @@
 =======
 # FlashCard
 >>>>>>> 1cee3046da6b3c3cda819d57abf03bdeaa61bf47
+=======
+# FlashCard
+>>>>>>> 5635854ed0b5b1a8e8519af916f47e0a8e624f38
